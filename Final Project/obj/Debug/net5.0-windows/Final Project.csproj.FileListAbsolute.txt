@@ -1,0 +1,37 @@
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.exe
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.deps.json
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.json
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.dev.json
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.dll
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\ref\Final Project.dll
+D:\School\C# 1\Final\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.pdb
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.AssemblyReference.cache
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Form1.resources
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.GenerateResource.cache
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfoInputs.cache
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfo.cs
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.CoreCompileInputs.cache
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.dll
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\ref\Final Project.dll
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.pdb
+D:\School\C# 1\Final\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.genruntimeconfig.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Form1.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\ref\Final Project.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.genruntimeconfig.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Properties.Resources.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Final Project\Final Project\obj\Debug\net5.0-windows\refint\Final Project.dll
